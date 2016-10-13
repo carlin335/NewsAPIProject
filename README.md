@@ -6,3 +6,4 @@ it is about calling News API's
 
 ##Screenshots
 ![](assets/NewsAppScreenshot.png)
+![](assets/Screenshot2.png)
